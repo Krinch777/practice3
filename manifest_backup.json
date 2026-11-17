@@ -1,0 +1,24 @@
+{
+  "created": "20261117_215753",
+  "archive_sha256": "8e1e06fd41363a9b8d0b66c5946bbe16c9f9ceb87a40366a3128071648da9ed7",
+  "files": {
+    "buh/report_1.csv": "045bbfd44b310e2435f2ac9ff7e802b666a68b0b11b27707cc60a2a2bc4a780d",
+    "buh/report_2.csv": "e129993a9a43bd9d1d579df9d2ab66bc16637dcdd8b455e3ec83f743040a5fae",
+    "buh/report_3.csv": "067df2d6e640135e303e93149b81de1177b2b95173da820642819f8463b9e31e",
+    "buh/report_4.csv": "1a97eff39eb0d5ef631eed6e42c7e3390c94ad1fbd1bb50449b72f68cc3aac5d",
+    "buh/report_5.csv": "b4ac6d31b671608c55b4ea83ec03bfbc13fb2283504518ffbfcea244f5d110f2",
+    "buh/report_6.csv": "dfdc790aa25561b512e85afdc90168d9cc8077d069fd72f3702b03a50f827bc7",
+    "design/report_1.csv": "b2a1f25c2ae6936cfcb0ca8a647679ccef60f06b29e82b0074bc78489f691e78",
+    "design/report_2.csv": "b483af5b70ab0932edbf246fc5e83194b1e0c5a6d517cf2cf0370aef278f4fa0",
+    "design/report_3.csv": "61d2ee7d633a7f9aea05e58080a21dabaff0a27eb1c5bc0d8adb28eadda3c45e",
+    "design/report_4.csv": "b9860604d5f4ba253b3db957adf6d70443bc3c20cb37d380254b80c258d736cc",
+    "design/report_5.csv": "0d294ae499386eb6f94dd6811f770a47747e505c65d9afc94d03bbf57d9a710a",
+    "design/report_6.csv": "bc0316fe8e558624715cb0df49b424c7211160f3a0ee26ba828fdf5234cdb107",
+    "print/report_1.csv": "0378e2eb6d98616473ede72018dd04231d8c8e3556e841286ef71943e1b09538",
+    "print/report_2.csv": "e32cea164da7969601934e761bb6da9065bba278a51daa94f5420ea8feebd3c8",
+    "print/report_3.csv": "97a1c204b7bf32efaad1030995d41ee52ca42a4747fa46fafbcf06db9252a2bf",
+    "print/report_4.csv": "e7498d2a8e1bd91c931aa1c3b0eb1ef12ab8f569169e2e01aa22268bbb1590bd",
+    "print/report_5.csv": "62d7c6bb4deaee1a81cf6037c42a8c683f5e29d86be1657dabb5b36d19973eee",
+    "print/report_6.csv": "ccca6481b6cf1cff56aa22796ab9ea8f495a23d198ec2fbf421c6b21f77115f1"
+  }
+}
